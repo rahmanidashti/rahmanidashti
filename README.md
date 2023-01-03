@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 📫 How to reach me: `h.rahmani@ucl.ac.uk` or `rahmanidashti@gmail.com`
+- 📫 How to reach me: `hossein.rahmani.22@ucl.ac.uk` or `rahmanidashti@gmail.com`
