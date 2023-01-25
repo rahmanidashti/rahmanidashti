@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Saeed's github stats](https://github-readme-stats.vercel.app/api?username=rahmanidashti&show_icons=true&theme=solarized-dark)
+
 - 📫 How to reach me: `hossein.rahmani.22@ucl.ac.uk` or `rahmanidashti@gmail.com`
